@@ -6,7 +6,7 @@
 
 
 
-## 💻 Technologies I'm Learning or Using
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![NASM](https://img.shields.io/badge/NASM-4B4B4B?style=flat-square&logo=gnubash&logoColor=white)
