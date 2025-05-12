@@ -4,7 +4,7 @@
 🔍 Currently learning Assembly (NASM), Figma, and working with C, Python, HTML, CSS, and JavaScript.  
 🚀 Passionate about technology, problem-solving, and understanding how things work under the hood.
 
-
+---
 
 ## 💻 Tech Stack:
 
@@ -16,10 +16,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+---
+
 ## 🧪 Projects
 
 - 🎯 **[Treinando-C](https://github.com/sarahCavalcantev/Treinando-C)**  
   Personal C practice repository where I solve exercises, test syntax, and explore language fundamentals.
+
+---
 
 ## 📈 GitHub Stats
 
