@@ -25,7 +25,7 @@
 
 - 🎯 **[Treinando-C](https://github.com/sarahCavalcantev/Treinando-C)**  
   Personal C practice repository where I solve exercises, test syntax, and explore language fundamentals.
-- 🎯 **COWBOY SHOOTOUT.((https://github.com/sarahCavalcantev/Shootout)**
+- 🎯 **[COWBOY SHOOTOUT](https://github.com/sarahCavalcantev/Shootout)**
   Duelo em Assembly NASM 64 bits no terminal Linux. O jogador deve reagir rápido após o saque do inimigo, ou perde automaticamente se atirar cedo demais.
 
   
