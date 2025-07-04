@@ -15,6 +15,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![x86_64](https://img.shields.io/badge/x86--64-000000?style=for-the-badge&logo=amd&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -22,7 +25,10 @@
 
 - 🎯 **[Treinando-C](https://github.com/sarahCavalcantev/Treinando-C)**  
   Personal C practice repository where I solve exercises, test syntax, and explore language fundamentals.
+- 🎯 **COWBOY SHOOTOUT.((https://github.com/sarahCavalcantev/Shootout)**
+  Duelo em Assembly NASM 64 bits no terminal Linux. O jogador deve reagir rápido após o saque do inimigo, ou perde automaticamente se atirar cedo demais.
 
+  
 ---
 
 ## 📈 GitHub Stats
